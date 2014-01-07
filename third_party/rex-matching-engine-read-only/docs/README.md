@@ -14,6 +14,7 @@ Rex这个程序实现了股票交易平台的功能。底层基于ACE通信框�
 main  
 >  ->Exchange::run  
 >>   ->OrderBookManager::init 针对每一种股票构造一个OrderBook  
+
 ### 交易
 FixMessageHandler::onMessage 接受到网络消息，通过重载接口来接受不同类型的Message。  
 >  ->构建内部表示的消息，例如NewOrderRequestMessage/CancelOrderRequestMessage/CancelReplaceOrderRequestMessage   
@@ -28,6 +29,7 @@ OrderBook::svc
 >    ->Message::process 处理消息
 
 >>      ->调用OrderBook::remove/OrderBook::match/OrderBook::add进行交易的删除/匹配/添加操作。
+
 ### 几种消息的关系
 ![Message](./arch.jpeg)
 ### 评价
