@@ -17,10 +17,14 @@ For ace lib, (e.g. ace/Task.h):
 
 	sudo apt-get install libace-dev
 
-Build and run copied version
+Build and run rex of copied version
 ---------------------
+	git clone https://github.com/coinport/coinport.github.io.git
+	cd coinport.github.io/third_party/rex-matching-engine-read-only/src
+	make
+	rex-matching-engine
 
-Build
+Build rex step by step
 ---------------------
 	svn checkout http://pugixml.googlecode.com/svn/tags/latest/ pugixml
 	svn checkout http://rex-matching-engine.googlecode.com/svn/trunk/ rex-matching-engine-read-only
@@ -34,7 +38,7 @@ Then
 
     make
 
-Run
+Run rex
 ---------------------
 Modify config file:
 
