@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 69
+vs2005
+vs2008
+vs2010
+vs2011
+*.ncb
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.user
+
+END
