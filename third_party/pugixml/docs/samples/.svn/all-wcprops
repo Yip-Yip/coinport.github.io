@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/914/tags/latest/docs/samples
+END
+traverse_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/795/tags/latest/docs/samples/traverse_base.cpp
+END
+save_subtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/795/tags/latest/docs/samples/save_subtree.cpp
+END
+load_stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/795/tags/latest/docs/samples/load_stream.cpp
+END
+transitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/795/tags/latest/docs/samples/transitions.xml
+END
+save_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/795/tags/latest/docs/samples/save_file.cpp
+END
+xpath_error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/795/tags/latest/docs/samples/xpath_error.cpp
+END
+weekly-utf-16.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/795/tags/latest/docs/samples/weekly-utf-16.xml
+END
+weekly-shift_jis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/795/tags/latest/docs/samples/weekly-shift_jis.xml
+END
+custom_memory_management.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/795/tags/latest/docs/samples/custom_memory_management.cpp
+END
+modify_add.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/795/tags/latest/docs/samples/modify_add.cpp
+END
+traverse_walker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/795/tags/latest/docs/samples/traverse_walker.cpp
+END
+save_declaration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/914/tags/latest/docs/samples/save_declaration.cpp
+END
+modify_remove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/795/tags/latest/docs/samples/modify_remove.cpp
+END
+load_memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/795/tags/latest/docs/samples/load_memory.cpp
+END
+xpath_query.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/795/tags/latest/docs/samples/xpath_query.cpp
+END
+traverse_predicate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/795/tags/latest/docs/samples/traverse_predicate.cpp
+END
+xpath_variables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/795/tags/latest/docs/samples/xpath_variables.cpp
+END
+traverse_rangefor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/914/tags/latest/docs/samples/traverse_rangefor.cpp
+END
+load_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/795/tags/latest/docs/samples/load_file.cpp
+END
+weekly-utf-8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/795/tags/latest/docs/samples/weekly-utf-8.xml
+END
+modify_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/795/tags/latest/docs/samples/modify_base.cpp
+END
+xpath_select.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/795/tags/latest/docs/samples/xpath_select.cpp
+END
+load_options.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/795/tags/latest/docs/samples/load_options.cpp
+END
+load_error_handling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/795/tags/latest/docs/samples/load_error_handling.cpp
+END
+save_options.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/795/tags/latest/docs/samples/save_options.cpp
+END
+save_stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/795/tags/latest/docs/samples/save_stream.cpp
+END
+character.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/795/tags/latest/docs/samples/character.xml
+END
+tree.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/795/tags/latest/docs/samples/tree.xml
+END
+traverse_iter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/795/tags/latest/docs/samples/traverse_iter.cpp
+END
+xgconsole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/795/tags/latest/docs/samples/xgconsole.xml
+END
+include.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/795/tags/latest/docs/samples/include.cpp
+END
+save_custom_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/795/tags/latest/docs/samples/save_custom_writer.cpp
+END
+text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/914/tags/latest/docs/samples/text.cpp
+END
