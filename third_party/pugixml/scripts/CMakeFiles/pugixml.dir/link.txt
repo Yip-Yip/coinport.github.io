@@ -1,2 +1,0 @@
-/usr/bin/ar cr libpugixml.a  CMakeFiles/pugixml.dir/mnt/ssd/coinport/coinport/src/third_party/rex-matching-engine-read-only/src/pugixml/src/pugixml.cpp.o
-/usr/bin/ranlib libpugixml.a
